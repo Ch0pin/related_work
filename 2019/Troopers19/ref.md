@@ -1,0 +1,2 @@
+- Full post https://census-labs.com/news/2019/05/31/hitting-the-gym-the-anatomy-of-a-killer-workout-troopers-2019/
+- Video https://www.youtube.com/watch?v=NU13Iktm5ZI
