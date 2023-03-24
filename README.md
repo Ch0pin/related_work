@@ -1,2 +1,3 @@
-# conferences
-Slides and videos from my public speeches / conferences
+# Conferences 
+
+Slides and videos from my Briefings/Trainings
