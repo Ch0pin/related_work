@@ -41,6 +41,15 @@ Slides and videos from my Briefings:
  - [House of Spirit](https://medium.com/bugbountywriteup/the-toddlers-introduction-to-heap-exploitation-house-of-spirit-part-4-4-252cd8928f84)
  - [House of Lore](https://medium.com/bugbountywriteup/the-toddlers-introduction-to-heap-exploitation-house-of-lore-part-4-5-1b5865297057)
  
+ ## Android Related
+ 
+- [TapJacking Attacks, a thorough guide - part 1](https://valsamaras.medium.com/tapjacking-attacks-a-thorough-guide-2cd6486d0fc9)
+- [TapJacking Attacks, a thorough guide - part 2](https://valsamaras.medium.com/tapjacking-attacks-a-thorough-guide-part-2-3b0390602a81)
+- [TapJacking Attacks, a thorough guide - part 3](https://valsamaras.medium.com/tapjacking-attacks-a-thorough-guide-last-part-3-f19614314b7)
+
+
+
+ 
  # Android Security training (malware)
  
 - [Slides](https://github.com/Ch0pin/conferences/tree/main/Android%20Security%20Training)
