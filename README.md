@@ -41,13 +41,16 @@ Slides and videos from my Briefings:
  - [House of Spirit](https://medium.com/bugbountywriteup/the-toddlers-introduction-to-heap-exploitation-house-of-spirit-part-4-4-252cd8928f84)
  - [House of Lore](https://medium.com/bugbountywriteup/the-toddlers-introduction-to-heap-exploitation-house-of-lore-part-4-5-1b5865297057)
  
- ## Android Related
+ ## Android Security
  
 - [TapJacking Attacks, a thorough guide - part 1](https://valsamaras.medium.com/tapjacking-attacks-a-thorough-guide-2cd6486d0fc9)
 - [TapJacking Attacks, a thorough guide - part 2](https://valsamaras.medium.com/tapjacking-attacks-a-thorough-guide-part-2-3b0390602a81)
 - [TapJacking Attacks, a thorough guide - part 3](https://valsamaras.medium.com/tapjacking-attacks-a-thorough-guide-last-part-3-f19614314b7)
-
-
+- [The Application Sandbox](https://valsamaras.medium.com/the-application-sandbox-9abd09a5c6da)
+- [Fear of the Target SDK, a story of a Ransomware](https://valsamaras.medium.com/fear-of-the-target-sdk-a-story-of-a-ransomware-2160c9c32a96)
+- [Tracing JNI Functions](https://valsamaras.medium.com/tracing-jni-functions-75b04bee7c58)
+- [When Equal is Not, Another WebView Takeover Story](https://valsamaras.medium.com/when-equal-is-not-another-webview-takeover-story-730be8d6e202)
+- [Pending intents: A pentester's view](https://valsamaras.medium.com/pending-intents-a-pentesters-view-92f305960f03)
 
  
  # Android Security training (malware)
