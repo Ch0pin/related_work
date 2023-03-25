@@ -8,6 +8,18 @@ Slides and videos from my Briefings:
 
 # Posts
 
+## ARM 64 Assembly
+
+- [Basic definitions and registers](https://valsamaras.medium.com/arm-64-assembly-series-basic-definitions-and-registers-ec8cc1334e40)
+- [Offset and Addressing modes](https://valsamaras.medium.com/arm-64-assembly-series-offset-and-addressing-modes-aa48b65b4c99)
+- [Load and Store](https://valsamaras.medium.com/arm-64-assembly-series-load-and-store-6bfe9c1d1896)
+- [Branch](https://valsamaras.medium.com/arm-64-assembly-series-branch-9ce820987fc6)
+- [Data Processing (Part 1)](https://valsamaras.medium.com/arm-64-assembly-series-data-processing-part-1-b6f6f877c56b)
+- [Data Processing (Part 2)](https://valsamaras.medium.com/arm-64-assembly-series-data-processing-part-2-3d0526dc07b6)
+- [Selections and loops](https://valsamaras.medium.com/practical-arm64-selections-and-loops-89f9a0e7e395)
+- [Subroutines](https://valsamaras.medium.com/practical-arm64-subroutines-1b5ea3935ff5)
+
+
 ## Introduction to x64 Linux Binary Exploitation
 
 - [Basic Buffer Overflow](https://valsamaras.medium.com/introduction-to-x64-linux-binary-exploitation-part-1-14ad4a27aeef)
