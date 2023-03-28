@@ -1,3 +1,4 @@
+
 # Conferences 
 
 Slides and videos from my Briefings:
@@ -43,6 +44,7 @@ Slides and videos from my Briefings:
  
  ## Android Security
  
+- [Android Security Workshop](https://valsamaras.medium.com/android-security-workshop-5eadeb50fba)
 - [TapJacking Attacks, a thorough guide - part 1](https://valsamaras.medium.com/tapjacking-attacks-a-thorough-guide-2cd6486d0fc9)
 - [TapJacking Attacks, a thorough guide - part 2](https://valsamaras.medium.com/tapjacking-attacks-a-thorough-guide-part-2-3b0390602a81)
 - [TapJacking Attacks, a thorough guide - part 3](https://valsamaras.medium.com/tapjacking-attacks-a-thorough-guide-last-part-3-f19614314b7)
@@ -51,7 +53,16 @@ Slides and videos from my Briefings:
 - [Tracing JNI Functions](https://valsamaras.medium.com/tracing-jni-functions-75b04bee7c58)
 - [When Equal is Not, Another WebView Takeover Story](https://valsamaras.medium.com/when-equal-is-not-another-webview-takeover-story-730be8d6e202)
 - [Pending intents: A pentester's view](https://valsamaras.medium.com/pending-intents-a-pentesters-view-92f305960f03)
+- [Size Matters — CVE-2021–0485 (High)](https://valsamaras.medium.com/size-matters-cve-2021-0485-cfa0a291f903)
+- [Vulnerability in TikTok Android app could lead to one-click account hijacking](https://www.microsoft.com/en-us/security/blog/2022/08/31/vulnerability-in-tiktok-android-app-could-lead-to-one-click-account-hijacking/)
+- [How an Android application can drain your wallet](https://www.microsoft.com/security/blog/2022/06/30/toll-fraud-malware-how-an-android-application-can-drain-your-wallet/)
 
+ ## Other 
+ 
+ - [The Signal Protocol and the Double Ratchet algorithm](https://valsamaras.medium.com/the-signal-protocol-and-the-double-ratchet-algorithm-e3d01d1e403f)
+ - [Just another Cracking the Uncrackable](https://valsamaras.medium.com/just-another-cracking-the-uncrackable-2266cbb61680)
+ - [Dissecting the Escobar bot](https://valsamaras.medium.com/escobars-bot-post-mortem-b6221196d6a4)
+ - [Uncovering Trojans in 5'](https://valsamaras.medium.com/uncovering-trojans-in-5-a4f3a06ba730)
  
  # Android Security training (malware)
  
@@ -62,3 +73,8 @@ Slides and videos from my Briefings:
  - [Joker](https://app.hackthebox.com/challenges/joker)
  - [SAW](https://app.hackthebox.com/challenges/saw)
  - [Four](https://github.com/Ch0pin/uncrackable/blob/main/four.apk)
+ 
+ # Currently working on
+
+- https://github.com/Ch0pin/medusa
+
