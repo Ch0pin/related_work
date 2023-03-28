@@ -6,4 +6,7 @@
 
 Post: [Toll fraud malware: How an Android application can drain your wallet](https://www.microsoft.com/en-us/security/blog/2022/06/30/toll-fraud-malware-how-an-android-application-can-drain-your-wallet/)
 
-Video: https://www.youtube.com/watch?app=desktop&v=tOUOzHOFNMs
+Videos: 
+
+- [Hacktivity](https://www.youtube.com/watch?app=desktop&v=tOUOzHOFNMs)
+- [Troopers22](https://www.youtube.com/watch?v=J9r9NPMVjuE)
