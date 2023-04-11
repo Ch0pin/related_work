@@ -74,6 +74,16 @@ Slides and videos from my Briefings:
  - [SAW](https://app.hackthebox.com/challenges/saw)
  - [Four](https://github.com/Ch0pin/uncrackable/blob/main/four.apk)
  
+  # My CVEs
+  
+  - CVE-2021-0485 
+  - CVE-2021-39617 
+  - CVE-2022-28799 
+  - CVE-2023-21721 
+  - CVE-2022-36928 
+  - CVE-2023-23391 
+  - CVE-2023-20906
+ 
  # Currently working on
 
 - https://github.com/Ch0pin/medusa
