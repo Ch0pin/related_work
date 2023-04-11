@@ -74,7 +74,7 @@ Slides and videos from my Briefings:
  - [SAW](https://app.hackthebox.com/challenges/saw)
  - [Four](https://github.com/Ch0pin/uncrackable/blob/main/four.apk)
  
-  # My CVEs
+  # Published CVEs
   
   - CVE-2021-0485 
   - CVE-2021-39617 
