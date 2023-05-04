@@ -79,8 +79,9 @@ Slides and videos from my Briefings:
   - CVE-2021-0485 
   - CVE-2021-39617 
   - CVE-2022-28799 
-  - CVE-2023-21721 
+  - CVE-2022-47757
   - CVE-2022-36928 
+  - CVE-2023-21721 
   - CVE-2023-23391 
   - CVE-2023-20906
  
