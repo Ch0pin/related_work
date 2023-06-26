@@ -84,6 +84,7 @@ Slides and videos from my Briefings:
   - CVE-2023-21721 
   - CVE-2023-23391 
   - CVE-2023-20906
+  - CVE-2023-36612
  
  # Currently working on
 
