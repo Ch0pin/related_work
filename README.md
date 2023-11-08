@@ -73,6 +73,7 @@ Slides and videos from my Briefings:
  - [Joker](https://app.hackthebox.com/challenges/joker)
  - [SAW](https://app.hackthebox.com/challenges/saw)
  - [Four](https://github.com/Ch0pin/uncrackable/blob/main/four.apk)
+ - [Secure Browser](https://github.com/Ch0pin/uncrackable/blob/main/Secure-Browser.1.0.0.apk)
  
   # Published CVEs
   
