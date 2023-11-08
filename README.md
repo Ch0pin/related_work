@@ -43,7 +43,7 @@ Slides and videos from my Briefings:
  - [House of Lore](https://medium.com/bugbountywriteup/the-toddlers-introduction-to-heap-exploitation-house-of-lore-part-4-5-1b5865297057)
  
  ## Android Security
- 
+- [Creating and using JVM instances in Android C/C++ applications](https://medium.com/@valsamaras/creating-and-using-jvm-instances-in-android-c-c-applications-c289415b9dbd)
 - [Android Security Workshop](https://valsamaras.medium.com/android-security-workshop-5eadeb50fba)
 - [TapJacking Attacks, a thorough guide - part 1](https://valsamaras.medium.com/tapjacking-attacks-a-thorough-guide-2cd6486d0fc9)
 - [TapJacking Attacks, a thorough guide - part 2](https://valsamaras.medium.com/tapjacking-attacks-a-thorough-guide-part-2-3b0390602a81)
