@@ -6,4 +6,5 @@
 *Dirty Stream Attack, Turning Android Share Targets Into Attack Vectors*:
 - [Nullcon](https://nullcon.net/berlin-2023/dirty-stream-attack) | [recording](https://www.youtube.com/watch?v=YHHsUVhyqjE)
 - [BlackHat Asia](https://www.blackhat.com/asia-23/briefings/schedule/index.html#dirty-stream-attack-turning-android-share-targets-into-attack-vectors-30234) | [recording](https://www.youtube.com/watch?v=oZTGR9vJVMQ)
+- [Bsides - Lisbon](https://bsideslisbon.org/2023/speakers/#dimitriosvalsamarasTalk)
   
