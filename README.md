@@ -75,7 +75,7 @@ Slides and videos from my Briefings:
  - [Four](https://github.com/Ch0pin/uncrackable/blob/main/four.apk)
  - [Secure Browser](https://github.com/Ch0pin/uncrackable/blob/main/Secure-Browser.1.0.0.apk)
  
-  # My CVEs
+  # CVEs
   
   - [AOSP CVE-2021-0485](https://android.googlesource.com/platform/frameworks/base/+/aad7fdc4f82ad56e332d3c23c5d07719e069b099) 
   - [AOSP CVE-2021-39617](https://android.googlesource.com/platform/frameworks/native/+/edb375df82f6b48688d85c11dbca91adef088bc8) 
