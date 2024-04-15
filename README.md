@@ -87,6 +87,7 @@ Slides and videos from my Briefings:
   - [AOSP CVE-2023-20906](https://android.googlesource.com/platform/frameworks/base/+/5e80fcf8c423f288a87d727f48ae38112177d716)
   - [Basecamp CVE-2023-36612](https://hackerone.com/reports/1710541)
   - [Nextcloud CVE-2023-39957](https://hackerone.com/reports/1997029)
+  - [Xiaomi's File Manager CVE-2023-26321](https://trust.mi.com/misrc/bulletins/advisory?cveId=541)
   - [MS Teams CVE-2024-21374](https://msrc.microsoft.com/update-guide/en-US/advisory/CVE-2024-21374)
   - [MS Teams CVE-2024-21448](https://msrc.microsoft.com/update-guide/en-US/advisory/CVE-2024-21448)
   - [MS Outlook CVE-2024-26204](https://msrc.microsoft.com/update-guide/en-US/advisory/CVE-2024-26204)
