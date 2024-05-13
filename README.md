@@ -6,6 +6,7 @@ Slides and videos from my Briefings:
 - [2019](https://github.com/Ch0pin/conferences/tree/main/2019)
 - [2022](https://github.com/Ch0pin/conferences/tree/main/2022)
 - [2023](https://github.com/Ch0pin/conferences/tree/main/2023)
+- [2024](https://github.com/Ch0pin/related_work/tree/main/2024)
 
 # Posts
 
