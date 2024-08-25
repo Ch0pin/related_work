@@ -81,6 +81,7 @@ Slides and videos from my Briefings:
   - [AOSP CVE-2021-0485](https://android.googlesource.com/platform/frameworks/base/+/aad7fdc4f82ad56e332d3c23c5d07719e069b099) 
   - [AOSP CVE-2021-39617](https://android.googlesource.com/platform/frameworks/native/+/edb375df82f6b48688d85c11dbca91adef088bc8) 
   - [TikTok CVE-2022-28799](https://www.microsoft.com/en-us/security/blog/2022/08/31/vulnerability-in-tiktok-android-app-could-lead-to-one-click-account-hijacking/)
+  - [TikTok CVE-2024-45240](https://nvd.nist.gov/vuln/detail/CVE-2024-45240)
   - [Zoom CVE-2022-36928](https://www.zoom.com/en/trust/security-bulletin/zsb-22033/)
   - [Zoom CVE-2023-34117](https://www.zoom.com/en/trust/security-bulletin/zsb-23019/)
   - [MS One Note CVE-2023-21721](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-21721)
