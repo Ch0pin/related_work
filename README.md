@@ -79,24 +79,24 @@ Slides and videos from my Briefings:
   # CVEs
   
   - [AOSP CVE-2021-0485](https://android.googlesource.com/platform/frameworks/base/+/aad7fdc4f82ad56e332d3c23c5d07719e069b099) 
-  - [AOSP CVE-2021-39617](https://android.googlesource.com/platform/frameworks/native/+/edb375df82f6b48688d85c11dbca91adef088bc8) 
+  - [AOSP CVE-2021-39617](https://android.googlesource.com/platform/frameworks/native/+/edb375df82f6b48688d85c11dbca91adef088bc8)
+  - [AOSP CVE-2023-20906](https://android.googlesource.com/platform/frameworks/base/+/5e80fcf8c423f288a87d727f48ae38112177d716)
+  - [Xiaomi's File Manager CVE-2023-26321](https://trust.mi.com/misrc/bulletins/advisory?cveId=541)
   - [TikTok CVE-2022-28799](https://www.microsoft.com/en-us/security/blog/2022/08/31/vulnerability-in-tiktok-android-app-could-lead-to-one-click-account-hijacking/)
   - [TikTok CVE-2024-45240](https://nvd.nist.gov/vuln/detail/CVE-2024-45240)
   - [Zoom CVE-2022-36928](https://www.zoom.com/en/trust/security-bulletin/zsb-22033/)
   - [Zoom CVE-2023-34117](https://www.zoom.com/en/trust/security-bulletin/zsb-23019/)
   - [MS One Note CVE-2023-21721](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-21721)
   - [MS Office CVE-2023-23391](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-23391)
-  - [AOSP CVE-2023-20906](https://android.googlesource.com/platform/frameworks/base/+/5e80fcf8c423f288a87d727f48ae38112177d716)
-  - [Basecamp CVE-2023-36612](https://hackerone.com/reports/1710541)
-  - [Nextcloud CVE-2023-39957](https://hackerone.com/reports/1997029)
-  - [Xiaomi's File Manager CVE-2023-26321](https://trust.mi.com/misrc/bulletins/advisory?cveId=541)
   - [MS Teams CVE-2024-21374](https://msrc.microsoft.com/update-guide/en-US/advisory/CVE-2024-21374)
   - [MS Teams CVE-2024-21448](https://msrc.microsoft.com/update-guide/en-US/advisory/CVE-2024-21448)
   - [MS Outlook CVE-2024-26204](https://msrc.microsoft.com/update-guide/en-US/advisory/CVE-2024-26204)
   - [Imo.im](https://play.google.com/store/apps/details?id=com.imo.android.imoim&hl=en&gl=US) [CVE-2022-47757](https://github.com/Ch0pin/security-advisories/security/advisories/GHSA-ghf9-x3c5-3mwj)
   - [WPS office for Android](https://play.google.com/store/apps/details?id=cn.wps.moffice_eng&hl=en&gl=US) [CVE-2024-35205](https://www.cve.org/CVERecord?id=CVE-2024-35205)
-
+  - [Basecamp CVE-2023-36612](https://hackerone.com/reports/1710541)
+  - [Nextcloud CVE-2023-39957](https://hackerone.com/reports/1997029)
+    
  # Currently working on
 
 - https://github.com/Ch0pin/medusa
-
+- https://github.com/Ch0pin/stheno
