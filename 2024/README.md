@@ -1,6 +1,8 @@
 
 *When Malware Becomes Creative: A Survey of Advanced Android Detection Evasion Tactics*:
-- [Insomni'hack](https://www.insomnihack.ch/talks-2024/#RVCRQF) | [recording](https://www.youtube.com/watch?v=t-zJ4KepbDg)
+- [Insomni'hack](https://www.insomnihack.ch/talks-2024/#RVCRQF) | [slides](https://github.com/user-attachments/files/17201613/Android_malware_survey_insomnihack.pdf)
+ | [recording](https://www.youtube.com/watch?v=t-zJ4KepbDg)
+- [BSidesLisbon 2024](https://bsideslisbon.org/2024/speakers/)
 
 *My other ClassLoader is your ClassLoader: Creating evil twin instances of a class*
 - [No Hat](https://www.nohat.it/talks#dimitrios_valsamaras)
