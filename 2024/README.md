@@ -5,7 +5,6 @@
 - [BSidesLisbon 2024](https://bsideslisbon.org/2024/speakers/)
 
 *My other ClassLoader is your ClassLoader: Creating evil twin instances of a class*
-- [No Hat](https://www.nohat.it/talks#dimitrios_valsamaras)
 - [BlackHat Europe](https://www.blackhat.com/eu-24/briefings/schedule/#my-other-classloader-is-your-classloader-creating-evil-twin-instances-of-a-class-41682)
 
 *Keys to the City: The Dark Trade-Off Between Revenue and Privacy in Monetizing SDKs*
