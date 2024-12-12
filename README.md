@@ -91,6 +91,7 @@ Slides and videos from my Briefings:
   - [MS Teams CVE-2024-21374](https://msrc.microsoft.com/update-guide/en-US/advisory/CVE-2024-21374)
   - [MS Teams CVE-2024-21448](https://msrc.microsoft.com/update-guide/en-US/advisory/CVE-2024-21448)
   - [MS Outlook CVE-2024-26204](https://msrc.microsoft.com/update-guide/en-US/advisory/CVE-2024-26204)
+  - [MS Defender CVE-2024-49057](https://nvd.nist.gov/vuln/detail/CVE-2024-49057)
   - [Imo.im](https://play.google.com/store/apps/details?id=com.imo.android.imoim&hl=en&gl=US) [CVE-2022-47757](https://github.com/Ch0pin/security-advisories/security/advisories/GHSA-ghf9-x3c5-3mwj)
   - [WPS office for Android](https://play.google.com/store/apps/details?id=cn.wps.moffice_eng&hl=en&gl=US) [CVE-2024-35205](https://www.cve.org/CVERecord?id=CVE-2024-35205)
   - [Basecamp CVE-2023-36612](https://hackerone.com/reports/1710541)
