@@ -90,6 +90,7 @@ Slides and videos from my Briefings:
   - [TikTok CVE-2024-45240](https://nvd.nist.gov/vuln/detail/CVE-2024-45240)
   - [Zoom CVE-2022-36928](https://www.zoom.com/en/trust/security-bulletin/zsb-22033/)
   - [Zoom CVE-2023-34117](https://www.zoom.com/en/trust/security-bulletin/zsb-23019/)
+  - [Zoom CVE-2025-64741](https://www.zoom.com/en/trust/security-bulletin/zsb-25043/)
   - [MS One Note CVE-2023-21721](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-21721)
   - [MS Office CVE-2023-23391](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-23391)
   - [MS Teams CVE-2024-21374](https://msrc.microsoft.com/update-guide/en-US/advisory/CVE-2024-21374)
