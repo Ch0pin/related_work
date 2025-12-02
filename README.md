@@ -85,6 +85,8 @@ Slides and videos from my Briefings:
   - [AOSP CVE-2021-39617](https://android.googlesource.com/platform/frameworks/native/+/edb375df82f6b48688d85c11dbca91adef088bc8)
   - [AOSP CVE-2023-20906](https://android.googlesource.com/platform/frameworks/base/+/5e80fcf8c423f288a87d727f48ae38112177d716)
   - [Samsung CVE-2025-21079](https://security.samsungmobile.com/serviceWeb.smsb?year=2025&month=11)
+  - [Samsung CVE-2025-58487](https://security.samsungmobile.com/serviceWeb.smsb?year=2025&month=12)
+  - [Samsung CVE-2025-58486](https://security.samsungmobile.com/serviceWeb.smsb?year=2025&month=12)
   - [Xiaomi's File Manager CVE-2023-26321](https://trust.mi.com/misrc/bulletins/advisory?cveId=541)
   - [TikTok CVE-2022-28799](https://www.microsoft.com/en-us/security/blog/2022/08/31/vulnerability-in-tiktok-android-app-could-lead-to-one-click-account-hijacking/)
   - [TikTok CVE-2024-45240](https://nvd.nist.gov/vuln/detail/CVE-2024-45240)
