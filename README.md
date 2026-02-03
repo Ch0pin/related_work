@@ -98,13 +98,13 @@ Slides and videos from my Briefings:
   - [Zoom CVE-2022-36928](https://www.zoom.com/en/trust/security-bulletin/zsb-22033/)
   - [Zoom CVE-2023-34117](https://www.zoom.com/en/trust/security-bulletin/zsb-23019/)
   - [Zoom CVE-2025-64741](https://www.zoom.com/en/trust/security-bulletin/zsb-25043/)
-  - [Xiaomi's File Manager CVE-2023-26321](https://trust.mi.com/misrc/bulletins/advisory?cveId=541)
+  - [Xiaomi CVE-2023-26321](https://trust.mi.com/misrc/bulletins/advisory?cveId=541)
   - [TikTok CVE-2022-28799](https://www.microsoft.com/en-us/security/blog/2022/08/31/vulnerability-in-tiktok-android-app-could-lead-to-one-click-account-hijacking/)
   - [TikTok CVE-2024-45240](https://nvd.nist.gov/vuln/detail/CVE-2024-45240)
+  - [Nextcloud CVE-2023-39957](https://hackerone.com/reports/1997029)
   - [Imo.im](https://play.google.com/store/apps/details?id=com.imo.android.imoim&hl=en&gl=US) [CVE-2022-47757](https://github.com/Ch0pin/security-advisories/security/advisories/GHSA-ghf9-x3c5-3mwj)
   - [WPS office for Android](https://play.google.com/store/apps/details?id=cn.wps.moffice_eng&hl=en&gl=US) [CVE-2024-35205](https://www.cve.org/CVERecord?id=CVE-2024-35205)
   - [Basecamp CVE-2023-36612](https://hackerone.com/reports/1710541)
-  - [Nextcloud CVE-2023-39957](https://hackerone.com/reports/1997029)
     
  # Currently working on
 
