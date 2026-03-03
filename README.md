@@ -95,6 +95,7 @@ Slides and videos from my Briefings:
   - [Samsung CVE-2025-58486](https://security.samsungmobile.com/serviceWeb.smsb?year=2025&month=12)
   - [Samsung CVE-2026-20976](https://security.samsungmobile.com/serviceWeb.smsb?year=2026&month=1)
   - [Samsung CVE-2026-20985](https://security.samsungmobile.com/serviceWeb.smsb?year=2026&month=2)
+  - [Samsung CVE-2026-20994](https://security.samsungmobile.com/serviceWeb.smsb?year=2026&month=3)
   - [Zoom CVE-2022-36928](https://www.zoom.com/en/trust/security-bulletin/zsb-22033/)
   - [Zoom CVE-2023-34117](https://www.zoom.com/en/trust/security-bulletin/zsb-23019/)
   - [Zoom CVE-2025-64741](https://www.zoom.com/en/trust/security-bulletin/zsb-25043/)
