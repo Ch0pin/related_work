@@ -45,6 +45,7 @@ Slides and videos from my Briefings:
  - [House of Lore](https://medium.com/bugbountywriteup/the-toddlers-introduction-to-heap-exploitation-house-of-lore-part-4-5-1b5865297057)
  
  ## Android Security
+- [Intent redirection vulnerability in third-party SDK exposed millions of Android wallets to potential risk](https://www.microsoft.com/en-us/security/blog/2026/04/09/intent-redirection-vulnerability-third-party-sdk-android/)
 - [Creating and using JVM instances in Android C/C++ applications](https://medium.com/@valsamaras/creating-and-using-jvm-instances-in-android-c-c-applications-c289415b9dbd)
 - [Android Security Workshop](https://valsamaras.medium.com/android-security-workshop-5eadeb50fba)
 - [TapJacking Attacks, a thorough guide - part 1](https://valsamaras.medium.com/tapjacking-attacks-a-thorough-guide-2cd6486d0fc9)
